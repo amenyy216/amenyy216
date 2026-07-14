@@ -37,7 +37,7 @@ Computer science student specializing in software engineering and systems. I bui
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Amani Bahri" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/amani-bahri-55867a258" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 
