@@ -41,8 +41,6 @@ Computer science student specializing in software engineering and systems. I bui
 </p>
 
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/amenyy123">amenyy123</a></i></p>
