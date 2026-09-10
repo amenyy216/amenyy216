@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Computer science student specializing in software engineering and systems. I build web applications, explore network security, and write about what I learn along the way.
+Computer science student specializing in software engineering and Information systems. I build web applications, explore network security, and write about what I learn along the way.
 
 🌱 &nbsp;I'm currently learning **software engineering, system design, and security.**
 
